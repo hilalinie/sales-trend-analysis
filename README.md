@@ -4,6 +4,9 @@
 This project analyzes sales trends and forecasts future revenue using an e-commerce dataset.
 The analysis covers monthly trends, day-of-week patterns, top products, and country-based revenue distribution.
 
+## Notebook
+[Open in Google Colab](https://colab.research.google.com/drive/1fiDBadHCyetTqAkH2HpJ73bEGxwHQmMD?usp=sharing)
+
 ## Dataset
 - **Source:** [Online Retail II Dataset - UCI / Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
 - **Size:** 1,067,371 transactions
@@ -33,9 +36,6 @@ The analysis covers monthly trends, day-of-week patterns, top products, and coun
 - **Python** - pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Google Colab** - Development environment
 - **GitHub** - Version control
-
-## How to Run
-Clone the repository and open the notebook in Google Colab.
 
 ## Author
 hilalinie | Industrial Engineering Student | Data Science Enthusiast
